@@ -1,1 +1,1 @@
-document.getElementById('good').style.color = 'green'
+document.getElementById('good').style.color = 'black'
