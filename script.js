@@ -1,0 +1,1 @@
+document.getElementById('good').style.color = 'green'
